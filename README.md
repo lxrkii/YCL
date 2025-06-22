@@ -1,2 +1,2 @@
-# AFO
-Auto File Organizer For Your Project
+# YCL
+Your Crying Letters
